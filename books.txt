@@ -1,0 +1,6 @@
+ID: 1, Name: Book 1, Author: Author A, Publisher: Publisher X, Year: 2001, Pages: 300, Cost: 150, Type: Q
+ID: 2, Name: Book 2, Author: Author B, Publisher: Publisher Y, Year: 1999, Pages: 250, Cost: 250, Type: W
+ID: 3, Name: Book 3, Author: Author C, Publisher: Publisher Z, Year: 2010, Pages: 400, Cost: 800.2, Type: E
+ID: 4, Name: Book 4, Author: Author A, Publisher: Publisher X, Year: 2022, Pages: 100, Cost: 500, Type: Q
+ID: 5, Name: Book 5, Author: Author B, Publisher: Publisher Y, Year: 1988, Pages: 458, Cost: 780, Type: W
+ID: 6, Name: Book 6, Author: Author C, Publisher: Publisher Z, Year: 2008, Pages: 963, Cost: 980, Type: E
